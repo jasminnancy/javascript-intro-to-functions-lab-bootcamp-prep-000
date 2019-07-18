@@ -6,5 +6,9 @@ var uppercase = "HELLO!"
 var lowercase = "hello!"
 var mixedCase = "Hi there!"
 function sayHiToGrandma(string) {
+  var uppercase = "HELLO!"
+  var lowercase = "hello!"
+  var mixedCase = "Hi there!"
+  
   
 }
