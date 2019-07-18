@@ -1,6 +1,6 @@
 function shout(string) { return string.toUpperCase()}
 function whisper(string) {return string.toLowerCase()}
-var log = "console.log()"
-function logShout(string) {return log.toUpperCase()}
-function logWhisper(string) {return log.toLowerCase()}
-function sayHiToGrandma(string) {return
+var hello = "console.log()"
+function logShout(string) {return hello.toUpperCase()}
+function logWhisper(string) {return hello.toLowerCase()}
+function sayHiToGrandma(string) {return 
